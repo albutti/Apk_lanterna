@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Lanterna.app"
-               BlueprintName = "Lanterna"
-               ReferencedContainer = "container:Lanterna.xcodeproj">
+               BuildableName = "lanterna.app"
+               BlueprintName = "lanterna"
+               ReferencedContainer = "container:lanterna.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "LanternaTests.xctest"
-               BlueprintName = "LanternaTests"
-               ReferencedContainer = "container:Lanterna.xcodeproj">
+               BuildableName = "lanternaTests.xctest"
+               BlueprintName = "lanternaTests"
+               ReferencedContainer = "container:lanterna.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Lanterna.app"
-            BlueprintName = "Lanterna"
-            ReferencedContainer = "container:Lanterna.xcodeproj">
+            BuildableName = "lanterna.app"
+            BlueprintName = "lanterna"
+            ReferencedContainer = "container:lanterna.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Lanterna.app"
-            BlueprintName = "Lanterna"
-            ReferencedContainer = "container:Lanterna.xcodeproj">
+            BuildableName = "lanterna.app"
+            BlueprintName = "lanterna"
+            ReferencedContainer = "container:lanterna.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

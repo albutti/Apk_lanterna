@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface LanternaTests : XCTestCase
+@interface lanternaTests : XCTestCase
 
 @end
 
-@implementation LanternaTests
+@implementation lanternaTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
